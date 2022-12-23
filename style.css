@@ -79,7 +79,7 @@ font-weight: 600;
 }
 
 
-.main-right-side-h1{
+.right-side-h1{
    margin: 0;
 }
 
@@ -251,6 +251,9 @@ a:hover{
    }
    .strenghts-list {
       padding-left: 40px;
+   }
+   .right-side-h1 {
+      text-align: center;   
    }
    
 } 
